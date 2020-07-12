@@ -1,0 +1,1 @@
+--benchmarks=readrandomwriterandom,stats,levelstats -readwritepercent=10 -num=20000000 -key_size=16 -value_size=16 -batch_size=10 -threads=2 -benchmark_write_rate_limit=100000000 -cache_size=8000000000
